@@ -1,1 +1,1 @@
-# hyperspectral_anomaly_detection_algorithms
+# Hyperspectral Anomaly Detection Algorithms
