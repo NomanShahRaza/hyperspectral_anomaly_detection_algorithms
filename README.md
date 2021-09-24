@@ -1,7 +1,7 @@
-# Hyperspectral Anomaly Detection Algorithms
+# *Hyperspectral Anomaly Detection Algorithms*
 
 
-| Algorithms | Link |
+| Algorithms | Links |
 | --- | --- |
 | Global RX |  http://www.spectralpython.net/class_func_ref.html#spectral.algorithms.detectors.rx |
 | Local RX, CSAD, CBAD, and FCBAD | https://github.com/GatorSense/hsi_toolkit |
