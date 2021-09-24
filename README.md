@@ -1,5 +1,8 @@
 # *Hyperspectral Anomaly Detection Algorithms*
 
+Following are the different types of anomaly detection techniques:
+
+RX detector, local RX, Derivative RX (D-RX), Discrete Wavelet Transform RX (DWT-RX), Random Selection-based Anomaly Detector (RSAD), Fractional Fourier Entropy (FrFE), Complementary Subspace Detector (CSD), Unsupervised Nearest Regularized Subspace (UNRS), local summation unsupervised nearest regularized subspace with an outlier removal anomaly detector (LSUNRSORAD), Attribute and Edge-preserving filtering-based Detection (AED), Laplacian Anomaly Detector (LAD) using Cauchy distance, LAD using Cauchy distance and spatial variant, LAD using partial correlation, LAD using partial correlation and spatial variant methods, Cluster-based Anomaly Detector (CBAD), Fuzzy Cluster-based Anomaly Detector (FCBAD), Collaborative Representation-based Detector (CRD), potential anomaly and background dictionary construction (PAB-DC), local summation anomaly detection-based on collaborative representation and inverse distance weight (LSAD-CR-IDW), Kernel Isolation Forest Detector (KIFD) \citep{li2019hyperspectral} and Low-Rank and Sparse Representation (LRASR).
 
 | Algorithms | Links |
 | --- | --- |
