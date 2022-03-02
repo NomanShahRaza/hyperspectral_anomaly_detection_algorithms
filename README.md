@@ -4,6 +4,7 @@
 
 
 * Following are the different types of **Hyperspectral Anomaly Detection Techniques**:
+<p align="justify">
 
   * Global RX 
   * Local RX
@@ -26,6 +27,8 @@
   * Local summation anomaly detection-based on collaborative representation and inverse distance weight (LSAD-CR-IDW)
   * Kernel Isolation Forest Detector (KIFD) 
   * Low-Rank and Sparse Representation (LRASR)
+</p>
+
 
 | Algorithms | Links |
 | --- | --- |
